@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is JFS batch
 conducted as VILT 
 by RPS 
+=======
+This is JFS batth
+conducted online 
+by wipro 
+>>>>>>> dev
